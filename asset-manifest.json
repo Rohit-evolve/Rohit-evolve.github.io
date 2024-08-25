@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c477e448.css",
+    "main.js": "/static/js/main.c3a6ba70.js",
+    "static/js/453.83234151.chunk.js": "/static/js/453.83234151.chunk.js",
+    "static/media/axios.png": "/static/media/axios.c6031ce1c93435b49117.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/JavaScript-Symbol.png": "/static/media/JavaScript-Symbol.b35b06ee43eccfec3018.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/rohit.jpg": "/static/media/rohit.16feae209af46d4a6190.jpg",
+    "static/media/background.jpg": "/static/media/background.4b980796d3e7ae83fd5f.jpg",
+    "static/media/java-logo-1.png": "/static/media/java-logo-1.fdabd4e11f1235e4e8e0.png",
+    "static/media/mysql2.png": "/static/media/mysql2.aca60b822520e64f8839.png",
+    "static/media/Employee1.png": "/static/media/Employee1.485aec318547c273c8be.png",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/Masters.png": "/static/media/Masters.e3c202c342e3085bbda8.png",
+    "static/media/pl-sql_icon-1.png": "/static/media/pl-sql_icon-1.aa258c6d87a87dddee53.png",
+    "static/media/weather.webp": "/static/media/weather.6c9cf4a834f0eac9ce95.webp",
+    "static/media/react-js.png": "/static/media/react-js.fd373eec9017cf21b26d.png",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/narayana.png": "/static/media/narayana.96891e585fd2a2c3b653.png",
+    "static/media/CSS-Logo.png": "/static/media/CSS-Logo.0ca65abfc0c427bc3506.png",
+    "static/media/Degree.jpg": "/static/media/Degree.7744e662b6e3861cd4b4.jpg",
+    "static/media/html.png": "/static/media/html.9d6471aeed108afe4c0a.png",
+    "static/media/spring-boot-logo.png": "/static/media/spring-boot-logo.7f34ee5e9541865ced65.png",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/index.html",
+    "main.c477e448.css.map": "/static/css/main.c477e448.css.map",
+    "main.c3a6ba70.js.map": "/static/js/main.c3a6ba70.js.map",
+    "453.83234151.chunk.js.map": "/static/js/453.83234151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c477e448.css",
+    "static/js/main.c3a6ba70.js"
+  ]
+}
