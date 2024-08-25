@@ -43,7 +43,9 @@
   "build": "react-scripts build",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
-}
+},
+
+"homepage": "https://Rohit-evolve.github.io"
 
   
 }
