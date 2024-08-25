@@ -35,7 +35,7 @@ export default function About() {
 
         <div className = "col mt-3" id="degree">
         <h4 className = "ms-3 text-success">Degree :</h4>
-         <img  src = {sai} style = {{height : "100px", width: "300px"}}className = "ms-3 ps-3 mt-2" alt="narayana"></img>
+         <img  src = {sai} style = {{height : "100px", width: "300px"}}className = "ms-3 ps-2 mt-2" alt="narayana"></img>
           <div className= "ms-3  ps-3 mt-4" style = {{color : "darkblue"}}>
            <p>Course : B.Sc (MECS)</p>
            <p>Percentage : 84%</p>
@@ -44,7 +44,7 @@ export default function About() {
         </div> 
 
       <div className = "col mt-3" id="pg">
-        <h4 className = "ms-5 text-success">Masters :</h4>
+        <h4 className = "ms-3 text-success">Masters :</h4>
          <img  src = {masters} style = {{height : "120px", width: "200px"}}className = "ms-3 ps-3" alt="narayana"></img>
           <div className= "ms-3  ps-3 mt-3">
            <p>Course : M.Sc (Computer Science)</p>
