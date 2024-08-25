@@ -24,9 +24,9 @@ export default function About() {
       <div className = "row">
         <h1 style = {{fontSize: '30px', textDecoration: "underline"}} className='mt-1 pt-1'>Education</h1>
         <div className = "col mt-3" id="inter">
-         <h4 className = "ms-5 text-success">Intermediate :</h4>
-         <img  src = {narayana} style = {{height : "70px"}}className = "ms-4 ps-5" alt="narayana"></img>
-          <div className= "ms-5  ps-5 mt-3">
+         <h4 className = "ms-3 text-success">Intermediate :</h4>
+         <img  src = {narayana} style = {{height : "70px"}}className = "ms-3 ps-3" alt="narayana"></img>
+          <div className= "ms-3  ps-3 mt-3">
            <p>Course : MPC</p>
            <p>Percentage : 88%</p>
            <p>June 2016 - June 2018</p>
