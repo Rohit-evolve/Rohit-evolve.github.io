@@ -33,7 +33,7 @@ export default function Home() {
 
          <div className = "ms-0 col">
           <div className = "container ms-0 pt-2 pb-2 mb-4 mt-5" id="mail">
-            <i className = "fas fa-envelope ps-4 pe-2"></i>
+            <i className = "fas fa-envelope ps-5 pe-2"></i>
             <p style = {{display: 'inline'}}> rohitkunta4@gmail.com </p>
            </div>
          </div> 
