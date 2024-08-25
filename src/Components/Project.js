@@ -78,7 +78,7 @@ export default function Project() {
         </div>
 
         <div className='col ms-5 mt-5 pt-5'>
-          <div className= "container w-75 pt-2 pb-2 mb-4" id="weather-description">
+          <div className= "container w-100 pt-2 pb-2 mb-4" id="weather-description">
 
            <p>Developed a user-friendly application that enabled users to quickly and easily access current 
             weather information for any city, enhancing overall user experience and convenience.</p>
