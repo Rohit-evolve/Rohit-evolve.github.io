@@ -1,0 +1,48 @@
+#intro
+{
+  
+
+  border-radius : 20px;
+
+  box-shadow: 10px 10px 20px rgba(10, 11, 10, 0.7),-2px 0px 10px rgba(33, 35, 33, 0.7);
+
+  background-image: linear-gradient(rgba(234, 213, 184, 0.9), rgba(146, 147, 113, 0.5));
+  
+
+}
+
+.div
+{
+ 
+  background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.8)), 
+              url("./assests/background.jpg");
+}
+
+#contact
+{
+  
+  border-radius: 15px;
+  background-color:antiquewhite;
+  width : 180px;
+  box-shadow: 10px 10px 20px rgba(10, 11, 10, 0.7),-2px 0px 10px rgba(33, 35, 33, 0.7);
+}
+
+#contact:hover{
+
+  background-color: black;
+}
+
+#mail
+{
+  border-radius: 15px;
+  background-color:antiquewhite;
+  box-shadow: 10px 10px 20px rgba(10, 11, 10, 0.7),-2px 0px 10px rgba(33, 35, 33, 0.7);
+}
+
+#mail:hover{
+
+  background-color: black;
+  color : antiquewhite;
+}
+
+
