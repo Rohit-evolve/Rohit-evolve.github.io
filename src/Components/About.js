@@ -26,7 +26,7 @@ export default function About() {
         <div className = "col mt-3" id="inter">
          <h4 className = "ms-3 text-success">Intermediate :</h4>
          <img  src = {narayana} style = {{height : "70px"}}className = "ms-3 ps-3" alt="narayana"></img>
-          <div className= "ms-3  ps-3 mt-3">
+          <div className= "ms-3  ps-3 mt-4 pt-3">
            <p>Course : MPC</p>
            <p>Percentage : 88%</p>
            <p>June 2016 - June 2018</p>
@@ -34,9 +34,9 @@ export default function About() {
         </div> 
 
         <div className = "col mt-3" id="degree">
-        <h4 className = "ms-5 text-success">Degree :</h4>
-         <img  src = {sai} style = {{height : "100px", width: "300px"}}className = "ms-4 ps-5" alt="narayana"></img>
-          <div className= "ms-5  ps-5 mt-3" style = {{color : "darkblue"}}>
+        <h4 className = "ms-3 text-success">Degree :</h4>
+         <img  src = {sai} style = {{height : "100px", width: "300px"}}className = "ms-3 ps-3 mt-2" alt="narayana"></img>
+          <div className= "ms-3  ps-3 mt-4" style = {{color : "darkblue"}}>
            <p>Course : B.Sc (MECS)</p>
            <p>Percentage : 84%</p>
            <p>July 2018 - August 2021</p>
@@ -45,8 +45,8 @@ export default function About() {
 
       <div className = "col mt-3" id="pg">
         <h4 className = "ms-5 text-success">Masters :</h4>
-         <img  src = {masters} style = {{height : "120px", width: "200px"}}className = "ms-4 ps-5" alt="narayana"></img>
-          <div className= "ms-5  ps-5 mt-3">
+         <img  src = {masters} style = {{height : "120px", width: "200px"}}className = "ms-3 ps-3" alt="narayana"></img>
+          <div className= "ms-3  ps-3 mt-3">
            <p>Course : M.Sc (Computer Science)</p>
            <p>Percentage : 64%</p>
            <p>Dec 2021 - Oct 2023</p>
