@@ -38,7 +38,7 @@ export default function Project() {
         </div> 
 
         <div className='col ms-5'>
-          <div className = "container w-75 pt-2 pb-2 mb-4" id="employee">
+          <div className = "container w-100 pt-2 pb-2 mb-4" id="employee">
             <p>Developed a user-friendly Employee Management System for
                efficient handling of employee records, including adding, editing, transferring, and terminating employees, task assignments, and
                performance assessments. Simplified HR processes for small and
